@@ -13,4 +13,4 @@ The 3D model of the components were obtained from [SnapEDA](https://www.snapeda.
 ![](images/microByte_PCBTOP.png)
 
 ### PCB Bottom View
-![](images/microByte_PCBBOTTOM.png)
+![](images/microByte_PCBBottom.png)
