@@ -14,3 +14,6 @@ The 3D model of the components were obtained from [SnapEDA](https://www.snapeda.
 
 ### PCB Bottom View
 ![](images/microByte_PCBBottom.png)
+
+
+Note: Some of the compenent 3D models weren't available, thats the reason why they don't appear on the PCB.
